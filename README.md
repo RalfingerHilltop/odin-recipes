@@ -1,0 +1,1 @@
+Code the First Odin Project in HTML to practice HTML and build a basic and ugly website
